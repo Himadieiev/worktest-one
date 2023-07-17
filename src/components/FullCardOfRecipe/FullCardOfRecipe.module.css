@@ -1,0 +1,59 @@
+.container {
+  padding: 100px 30px 30px;
+}
+
+.contentContainer {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.link {
+  display: block;
+  width: 80px;
+  padding: 3px;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid grey;
+  border-radius: 5px;
+  font-size: 15px;
+  color: black;
+}
+
+.link:hover {
+  background-color: #f2f2f2;
+}
+
+.image {
+  width: 140px;
+  height: 560px;
+}
+
+.information {
+  margin-left: 200px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.description {
+  font-size: 20px;
+  width: 500px;
+  margin-top: 10px;
+}
+
+.subtitle {
+  margin-top: 30px;
+}
+
+.listFoodPairing {
+  margin-top: 10px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+.tagline {
+  margin-top: 30px;
+  font-size: 20px;
+}

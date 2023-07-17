@@ -1,0 +1,25 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-bottom: 2px solid blue;
+  background-color: azure;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
