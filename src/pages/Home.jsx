@@ -9,7 +9,7 @@ const Home = () => {
 
   return (
     <div style={homeStyle}>
-      This is Home page. To see the recipes, go to the "Recipes" page
+      This is "Home" page. To see the recipes, go to the "Recipes" page
     </div>
   );
 };
