@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/worktest-one/static/css/main.5ab86223.css",
-    "main.js": "/worktest-one/static/js/main.ab553c28.js",
+    "main.js": "/worktest-one/static/js/main.bb7be044.js",
     "static/css/257.8d020223.chunk.css": "/worktest-one/static/css/257.8d020223.chunk.css",
     "static/js/257.856bd071.chunk.js": "/worktest-one/static/js/257.856bd071.chunk.js",
     "static/css/576.41a07e50.chunk.css": "/worktest-one/static/css/576.41a07e50.chunk.css",
     "static/js/576.4be4cdbb.chunk.js": "/worktest-one/static/js/576.4be4cdbb.chunk.js",
     "index.html": "/worktest-one/index.html",
     "main.5ab86223.css.map": "/worktest-one/static/css/main.5ab86223.css.map",
-    "main.ab553c28.js.map": "/worktest-one/static/js/main.ab553c28.js.map",
+    "main.bb7be044.js.map": "/worktest-one/static/js/main.bb7be044.js.map",
     "257.8d020223.chunk.css.map": "/worktest-one/static/css/257.8d020223.chunk.css.map",
     "257.856bd071.chunk.js.map": "/worktest-one/static/js/257.856bd071.chunk.js.map",
     "576.41a07e50.chunk.css.map": "/worktest-one/static/css/576.41a07e50.chunk.css.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.5ab86223.css",
-    "static/js/main.ab553c28.js"
+    "static/js/main.bb7be044.js"
   ]
 }
